@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about
+title: music
+permalink: /music
 ---
 # Music
 
