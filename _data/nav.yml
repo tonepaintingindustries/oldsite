@@ -3,11 +3,11 @@ items:
 - title: Home
   url: /
 
+- title: Music
+  url: /music
+
 - title: Posts
   url: /posts
 
 - title: About
   url: /about
-
-- title: 
-  url:
