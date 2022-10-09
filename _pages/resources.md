@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: resoirces
+title: resources
 permalink: /resources
 ---
