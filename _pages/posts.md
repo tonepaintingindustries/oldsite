@@ -1,5 +1,5 @@
 ---
-layout: posts
-title: posts
-permalink: /posts
+layout: thoughts
+title: thoughts
+permalink: /thoughts
 ---
