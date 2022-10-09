@@ -31,13 +31,13 @@ pre, code {
   margin-top: 0; }
 
 ::selection {
-  background: #ffff00;
+  background: #8000ff;
   color: #000000; }
 
 a,
 a:link,
 a:visited {
-  color: #ffff00; }
+  color: #8000ff; }
 
 a:active,
 a:hover {
@@ -71,7 +71,7 @@ a.btn-listen:link,
 .btn-listen:visited {
   display: block;
   text-align: center;
-  border: 1px solid #ffff00;
+  border: 1px solid #8000ff;
   text-align: none;
   text-decoration: none; }
   a.btn-listen:hover, a.btn-listen:active,
@@ -79,7 +79,7 @@ a.btn-listen:link,
   a.btn-listen:link:active,
   .btn-listen:visited:hover,
   .btn-listen:visited:active {
-    background: #ffff00;
+    background: #8000ff;
     color: #000000; }
 
 .listen-unavailable {
