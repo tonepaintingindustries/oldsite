@@ -6,7 +6,10 @@ items:
 - title: Music
   url: /music
 
-- title: Posts
+- title: Resources
+  url: /resources
+  
+- title: Thoughts
   url: /posts
 
 - title: About
