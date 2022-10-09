@@ -10,3 +10,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 include: ['_pages']
+collections:
+  - resources
+  - software
