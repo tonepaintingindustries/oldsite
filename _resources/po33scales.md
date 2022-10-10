@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ###### PO-33 Scale Guides
 
 Here are some guides I made to help those new to the PO-33 or music theory (or both) develop a better understanding of playing in melodic mode.
