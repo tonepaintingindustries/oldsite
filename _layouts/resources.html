@@ -1,4 +1,29 @@
 ---
-layout: abstract
+layout: default
+title: Resources
 ---
-{% for post in site.resources%} {% include article.html %} {% endfor %}
+
+<h1 class="mt-4">Resources</h1>
+{% assign resources = site.resources}
+{% for res in resources %}
+<div class="resitem">
+  <div class="restitle">{{ res.title }}</div>
+  <div class="respreview">{{ res.preview }}</div>
+</div>
+{% endfor %}
+
+.resitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.restitle {
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.respreview {
+  font-size: 75%;
+  margin-bottom: 0.75em;
+}
