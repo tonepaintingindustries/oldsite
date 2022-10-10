@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "PO-33 Scale Guides"
+preview: Guides to playing minor, major, diatonic modes, and harmonic minor modes on the PO-33.
 ---
 
 Here are some guides I made to help those new to the PO-33 or music theory (or both) develop a better understanding of playing in melodic mode.
