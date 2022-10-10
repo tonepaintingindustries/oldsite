@@ -6,6 +6,8 @@ preview: Guides to playing minor, major, diatonic modes, and harmonic minor mode
 
 Here are some guides I made to help those new to the PO-33 or music theory (or both) develop a better understanding of playing in melodic mode.
 
+*(right click and save as)*
+
 ![](/assets/images/PO33%20Major%20and%20Minor.png)
 ![](/assets/images/PO33%20Diatonic%20Modes.png)
 ![](/assets/images/PO33%20Modes%20of%20Harmonic%20Minor.png)
@@ -21,5 +23,6 @@ It is worth noting that all of these scale/mode changes are *relative.* It is al
 #### a note on the extra note
 The addition of a non-diatonic note was likely an arbitrary decision so that the 7 note scale would fill 2 octaves perfectly within a grid of 16 keys. Playing the same key 2 rows up or down is always an octave shift because of this. However, it also introduces a new set of modes that can be built from the Harmonic Minor scale. While the diatonic modes are made up of whole steps and half steps, the modes of Harmonic Minor contain a combined whole and half step. This 3-semitone interval gives these modes a unique and exotic sound. Try experimenting with Phrygian Dominant, Altered Dorian, or Altered Diminished.
 
-If you found this useful, consider a follow or share on [Instagram.](https://www.instagram.com/tonepainting/) 
+If you found this useful, consider a follow or share on [Instagram.](https://www.instagram.com/tonepainting/)
+
 If you made something cool using this technique, tag me in it or DM me!
