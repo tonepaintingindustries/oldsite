@@ -11,5 +11,9 @@ plugins:
   - jekyll-sitemap
 include: ['_pages']
 collections:
-  - resources
-  - software
+  resources:
+    output: true
+    permalink: /:collection/:name
+  software:
+    output: true
+    permalink: /:collection/:name
