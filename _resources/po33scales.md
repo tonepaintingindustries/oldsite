@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "This is a Post"
 ---
 
 ###### PO-33 Scale Guides
